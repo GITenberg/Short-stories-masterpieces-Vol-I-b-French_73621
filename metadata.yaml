@@ -1,0 +1,40 @@
+_repo: Short-stories-masterpieces-Vol-I-b-French_73621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Esenwein, J. Berg (Joseph Berg)
+    alias: Esenwein, Joseph Berg
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '6618'
+    url: http://www.gutenberg.org/2009/agents/6618
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Berg_Esenwein
+description: ''
+gutenberg_issued: '2024-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73621'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101054939010&view=1up&seq=11
+pgterms:marc905: 20201107140106esenwein
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Thiers, Santiago and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aMassachusetts :$bThe Home correspondence school, $c1912, copyright
+  1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Short-stories masterpieces, Vol. I : $b French'
+url: http://www.gutenberg.org/ebooks/73621
